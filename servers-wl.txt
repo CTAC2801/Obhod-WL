@@ -17,3 +17,4 @@ vless://2c634977-584e-4e1f-b501-1b70c77a6743@78.159.245.32:28474?flow=xtls-rprx-
 vless://2c634977-584e-4e1f-b501-1b70c77a6743@78.159.245.32:28474?flow=xtls-rprx-vision&encryption=none&security=tls&sni=secure.furrycdn.net&type=tcp&headerType=none#%D1%82%D0%B5%D0%BB%D0%B52
 vless://2c634977-584e-4e1f-b501-1b70c77a6743@78.159.245.32:28474?flow=xtls-rprx-vision&encryption=none&security=tls&sni=secure.furrycdn.net&type=tcp&headerType=none#%F0%9F%87%B3%F0%9F%87%B1Wi-Fi%20%20VPS%20SaNtA
 vless://2c634977-584e-4e1f-b501-1b70c77a6743@78.159.245.32:28474?flow=xtls-rprx-vision&encryption=none&security=tls&sni=secure.furrycdn.net&fp=chrome&type=tcp&headerType=none#%F0%9F%87%AA%F0%9F%87%AA%20%5BWL%5D%20%D0%A1%D0%B5%D1%80%D0%B2%D0%B5%D1%80%20108
+hysteria2://95c61940-2823-4665-a033-d4f2218329b6@46.8.210.209:443?security=tls&fm=%7B%7D&sni=ru3.kinotorg.net#%F0%9F%87%B5%F0%9F%87%B1%20%5BWL%5D%20%D0%A1%D0%B5%D1%80%D0%B2%D0%B5%D1%80%20481
